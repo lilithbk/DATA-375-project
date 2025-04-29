@@ -1,0 +1,137 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+df <- read.csv("cleanedData.csv")
+```
+
+```{r}
+df <- df %>%
+  #create catch-all therapy column
+  mutate(Therapy = if_else(Therapy.with.SACASA == 1 | Therapy.elsewhere == 1, 1, 0)) %>%
+  
+  #remove old therapy columns
+  select(-c(Therapy.with.SACASA,Therapy.elsewhere)) %>%
+  
+  #create column that breaks MFE into three categories
+  mutate(Exam = case_when(
+    #first category is any level of MFE completed
+    substr(MFE, 1, 1) == "Y" ~ "Y",
+    #second category contains instances where MFE was not completed for any reason other than
+      #survivor denial (involves cases where too much time had passed, survivor was unable to give consent, etc.)
+    MFE %in% c("NOT", "NUC", "NNA", "NTCAC") ~ "O",
+    #third category contains instances where survivor denied having an MFE
+    TRUE ~ "N"))
+```
+
+The following are some plots comparing Exam with other columns that seemed like there might be something interesting/statistically significant to look at.
+
+```{r}
+ggplot(df) +
+  geom_bar(mapping = aes(x = Exam,group=Therapy,fill=Therapy))
+```
+
+
+```{r}
+y <- "Gender"
+ggplot(df, aes(x=Exam))+
+  geom_bar(aes(group=!!sym(y),fill=!!sym(y)))
+```
+
+```{r}
+y <- "Wants.follow.up.call.from.SACASA"
+ggplot(df, aes(x=Exam))+
+  geom_bar(aes(group=!!sym(y),fill=!!sym(y)))
+```
+
+
+```{r}
+y <- "Follow.up.with.Law.Enforcement"
+ggplot(df, aes(x=Exam))+
+  geom_bar(aes(group=!!sym(y),fill=!!sym(y)))
+```
+
+```{r}
+y <- "Follow.up.with.legal.options"
+ggplot(df, aes(x=Exam))+
+  geom_bar(aes(group=!!sym(y),fill=!!sym(y)))
+```
+
+```{r}
+y <- "Follow.up.with.Victim.s.Compensation"
+ggplot(df, aes(x=Exam))+
+  geom_bar(aes(group=!!sym(y),fill=!!sym(y)))
+```
+
+```{r}
+y <- "Seek.Outside.Medical.Care"
+ggplot(df, aes(x=Exam))+
+  geom_bar(aes(group=!!sym(y),fill=!!sym(y)))
+```
+
+
+```{r}
+y <- "Pass.info.onto.secondary.survivors"
+ggplot(df, aes(x=Exam))+
+  geom_bar(aes(group=!!sym(y),fill=!!sym(y)))
+```
+
+```{r}
+y <- "Report.to.law.enforcement"
+ggplot(df, aes(x=Exam))+
+  geom_bar(aes(group=!!sym(y),fill=!!sym(y)))
+```
+
+Similar thing but with Homeless column:
+
+```{r}
+y <- "Therapy"
+ggplot(df,aes(x=Homeless))+
+  geom_bar(aes(group=!!sym(y),fill=!!sym(y)))
+```
+
+```{r}
+y <- "Self.care"
+ggplot(df,aes(x=Homeless))+
+  geom_bar(aes(group=!!sym(y),fill=!!sym(y)))
+```
+
+```{r}
+y <- "Report.to.law.enforcement"
+ggplot(df,aes(x=Homeless))+
+  geom_bar(aes(group=!!sym(y),fill=!!sym(y)))
+```
+
+```{r}
+y <- "Follow.up.with.Victim.s.Compensation"
+ggplot(df,aes(x=Homeless))+
+  geom_bar(aes(group=!!sym(y),fill=!!sym(y)))
+```
+
+```{r}
+y <- "Follow.up.with.legal.options"
+ggplot(df,aes(x=Homeless))+
+  geom_bar(aes(group=!!sym(y),fill=!!sym(y)))
+```
+
+```{r}
+y <- "Follow.up.with.Law.Enforcement"
+ggplot(df,aes(x=Homeless))+
+  geom_bar(aes(group=!!sym(y),fill=!!sym(y)))
+```
+
+```{r}
+y <- "Gender"
+ggplot(df,aes(x=Homeless))+
+  geom_bar(aes(group=!!sym(y),fill=!!sym(y)))
+```
+
+```{r}
+#might end up combining these into one column bc they're all similar
+df %>%
+  count(Follow.up.with.Law.Enforcement,Follow.up.with.legal.options,Report.to.law.enforcement)
+```
+

@@ -1,0 +1,589 @@
+Minutes in Hospital,Gender,Ethnicity,Age,MFE,Wants follow up call from SACASA,Call Crisis Line as Needed,Follow up with Law Enforcement,Follow up with legal options,Follow up with Victim's Compensation,Seek Outside Medical Care,Pass info onto secondary survivors,Follow up with other referral,Report to law enforcement,Self care,Therapy with SACASA,Therapy elsewhere,Utilize walk-in services at SACASA,Homeless,Veteran,Immigrant,LGBTQ,Inmate,Undocumented
+525,Female,Multiethnic,24,YSO,Y,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+170,Female,Multiethnic,38,NOT,N,1,0,0,0,0,0,0,0,1,0,0,0,Y,N,N,N,N,N
+435,Female,Caucasian,28,YAT,Y,1,1,0,1,1,0,0,1,1,0,0,0,Y,N,N,N,N,N
+349,Female,Caucasian,25,NDSE,Y,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+70,Female,Caucasian,25,ND,Y,1,0,0,0,0,0,0,0,0,0,0,0,Y,N,N,N,N,N
+245,Female,Hispanic/Latino,57,YAT,Y,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,N,N,N
+65,Female,Native American,32,ND,N,1,1,1,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+280,Male,Caucasian,50,YAT,N,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,Y,N
+75,Female,Caucasian,39,ND,Y,1,1,0,1,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+301,Transgender,Caucasian,35,YAT,N,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,Y,Y,N
+376,Female,Hispanic/Latino,18,ND,Y,1,1,0,0,1,0,0,0,1,0,0,1,N,N,N,N,N,N
+495,Female,Hispanic/Latino,27,YT,Y,1,1,0,0,1,0,0,0,1,0,1,0,N,N,N,N,N,N
+495,Male,Declined to Answer,25,YAT,Y,1,0,1,0,1,0,0,1,1,0,0,0,D,D,D,D,Y,D
+460,Female,Hispanic/Latino,36,NUC,N,1,0,0,0,0,0,0,0,1,0,0,1,Y,N,N,N,N,N
+125,Female,Hispanic/Latino,36,NUC,N,1,0,0,0,0,0,0,0,1,0,0,0,Y,N,N,N,N,N
+534,Female,Hispanic/Latino,20,YT,N,1,0,0,0,0,0,0,0,0,0,0,1,N,N,N,Y,N,N
+210,Female,Declined to Answer,59,YSO,Y,1,1,0,0,0,0,0,0,1,1,0,0,N,N,N,N,N,N
+190,Female,Hispanic/Latino,23,ND,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,Y,N,N,Y
+466,Transgender,Caucasian,38,YAT,N,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,Y,Y,N
+176,Female,Multiethnic,62,ND,N,1,0,0,0,1,0,0,0,0,0,0,1,D,D,D,D,D,D
+165,Female,Caucasian,35,ND,Y,1,0,0,0,0,0,0,0,1,0,0,0,Y,N,N,Y,N,N
+55,Female,Multiethnic,2,NNA,N,1,1,0,0,0,0,1,0,1,0,0,0,N,N,N,N,N,N
+309,Female,Native American,42,YAT,Y,1,1,1,0,1,0,0,1,1,0,0,0,N,N,N,N,N,N
+164,Female,Caucasian,36,ND,Y,1,0,0,0,1,0,0,0,1,1,1,0,N,N,N,Y,N,N
+206,Female,Hispanic/Latino,62,NUC,N,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+665,Female,African-American,32,YAT,Y,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,D,N,N
+132,Female,Hispanic/Latino,22,ND,Y,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+300,Female,African-American,32,YAT,N,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,D,N,N
+190,Female,Caucasian,22,YT,Y,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,N,N,N
+100,Female,Hispanic/Latino,25,ND,Y,1,1,0,0,0,0,0,0,1,1,0,0,N,N,N,N,N,N
+70,Female,Caucasian,68,NUC,N,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+530,Female,Native American,37,YT,Y,1,0,0,0,1,0,0,0,1,0,0,1,N,N,N,N,N,N
+49,Female,Hispanic/Latino,25,ND,N,1,0,0,0,0,0,0,0,0,0,0,1,N,N,N,Y,N,Y
+130,Female,Hispanic/Latino,28,ND,Y,1,0,0,1,0,0,0,0,1,1,0,0,N,N,N,N,N,N
+150,Female,Hispanic/Latino,30,ND,Y,1,1,0,1,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+140,Female,Caucasian,25,NUC,Y,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,Y,N,N
+256,Female,Caucasian,25,NUC,N,1,0,0,0,0,0,0,0,0,0,0,1,N,N,N,Y,N,N
+87,Transgender,Caucasian,36,ND,N,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,Y,N,N
+644,Female,Hispanic/Latino,45,ND,Y,1,0,0,0,0,0,0,0,0,0,0,0,Y,N,N,N,N,N
+450,Female,African-American,24,YSO,Y,1,1,1,0,0,0,1,0,1,0,0,0,N,N,N,N,N,N
+23,Female,Caucasian,50,NOT,N,1,0,0,0,0,0,0,0,1,0,0,1,Y,D,D,D,D,D
+115,Female,Native American,17,ND,N,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+322,Male,Native American,23,YAT,Y,1,0,0,0,1,0,0,0,1,0,0,1,N,N,N,Y,N,N
+135,Declined to Answer,Declined to Answer,45,ND,N,0,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,D,D
+320,Female,Hispanic/Latino,19,NOT,Y,1,1,0,1,0,0,0,0,1,1,0,0,N,N,N,N,N,N
+260,Female,Multiethnic,19,ND,Y,1,1,0,1,0,0,0,0,1,1,0,0,N,N,N,N,N,N
+135,Female,Caucasian,22,ND,Y,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+175,Female,Caucasian,37,ND,Y,1,0,0,0,1,0,1,0,1,0,0,0,N,N,N,N,N,N
+107,Female,Multiethnic,28,ND,Y,1,0,0,0,0,0,0,0,0,0,0,0,Y,N,N,N,N,N
+635,Female,Multiethnic,19,YAT,Y,1,1,0,0,0,0,1,0,1,0,1,0,N,N,N,N,N,N
+290,Transgender,Native American,21,YAT,Y,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,Y,N,N
+170,Female,African-American,32,ND,Y,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+117,Female,Caucasian,73,NOT,Y,1,1,1,0,1,0,0,1,1,1,1,0,N,N,N,N,N,N
+148,Female,Native American,35,ND,Y,1,0,0,0,1,0,1,0,1,1,0,0,Y,N,N,Y,N,N
+77,Female,Hispanic/Latino,20,NOT,Y,1,1,1,0,0,0,1,0,1,0,0,1,N,N,N,N,N,N
+150,Female,Declined to Answer,83,ND,N,1,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,D,D
+279,Female,Multiethnic,20,ND,Y,1,0,0,1,0,0,1,0,1,1,0,1,N,N,N,N,N,N
+378,Female,African-American,62,YAT,Y,1,0,0,0,1,0,0,0,1,0,0,1,Y,N,N,N,N,N
+385,Female,Caucasian,21,YAT,Y,1,1,0,0,1,0,0,0,1,1,0,0,N,N,N,N,N,N
+220,Female,African-American,62,NUC,Y,1,1,1,0,1,0,0,1,0,0,0,0,Y,N,N,N,N,N
+56,Declined to Answer,Declined to Answer,19,ND,N,1,0,0,1,1,0,0,0,1,0,0,0,D,D,D,D,D,D
+80,Female,African-American,39,NUC,N,1,0,0,0,0,0,0,0,0,0,0,0,Y,N,N,Y,N,N
+63,Female,African-American,39,NUC,Y,1,0,0,0,0,0,0,0,0,0,0,0,Y,N,N,Y,N,N
+405,Female,African-American,22,YAT,Y,1,1,0,0,1,0,0,0,0,0,0,1,N,N,N,Y,N,N
+125,Female,Caucasian,17,ND,N,1,0,0,0,1,0,1,0,1,0,0,0,N,N,N,N,N,N
+401,Female,Caucasian,18,YAT,Y,1,1,1,0,1,0,0,1,1,1,1,0,N,N,N,N,N,N
+88,Female,Hispanic/Latino,25,ND,Y,1,0,0,0,1,0,0,1,1,1,0,1,N,N,N,Y,N,N
+15,Declined to Answer,Declined to Answer,23,ND,N,1,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,D,D
+354,Transgender,Caucasian,22,YME,Y,1,0,0,0,0,0,0,0,0,0,0,1,Y,N,N,Y,N,N
+586,Female,Caucasian,22,YAT,Y,1,1,0,1,1,0,1,0,1,1,0,0,N,N,N,N,N,N
+647,Female,Hispanic/Latino,29,YAT,Y,1,0,0,1,1,0,0,1,1,1,0,0,N,N,N,N,N,N
+685,Transgender,Caucasian,22,NUC,Y,1,0,0,0,1,0,0,0,1,0,0,0,Y,N,N,Y,N,N
+635,Female,Caucasian,44,YSO,Y,1,0,0,1,1,0,0,0,1,1,0,0,N,N,N,Y,N,N
+457,Female,Hispanic/Latino,37,YAT,N,1,0,0,0,1,0,0,0,1,0,0,1,Y,N,N,N,N,N
+615,Female,Hispanic/Latino,18,YAT,Y,1,0,0,0,1,0,0,0,1,1,0,0,N,N,N,Y,N,N
+60,Female,African,34,NDSAE,N,1,0,0,0,0,0,0,0,0,0,0,0,,N,N,N,N,N
+431,Female,Caucasian,35,YAT,Y,1,0,0,0,1,0,0,0,0,0,1,0,N,N,N,N,N,N
+135,Female,Hispanic/Latino,29,NDSE,Y,0,1,0,0,1,0,0,1,1,0,0,0,N,N,N,N,N,N
+608,Female,Hispanic/Latino,18,YAT,Y,1,0,0,0,1,0,1,0,1,0,0,1,N,N,N,N,N,N
+87,Declined to Answer,Declined to Answer,31,NUC,N,0,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,D,D
+15,Declined to Answer,Declined to Answer,35,NUC,Y,1,0,0,0,0,0,0,0,0,0,0,1,Y,N,N,N,N,N
+40,Declined to Answer,Declined to Answer,35,NUC,N,0,0,0,0,0,0,0,0,0,0,0,0,Y,N,N,N,N,N
+47,Declined to Answer,Declined to Answer,37,NUC,N,0,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,D,D
+40,Declined to Answer,Declined to Answer,37,NUC,N,1,0,0,0,0,0,0,0,1,0,0,1,D,D,D,D,D,D
+80,Transgender,Declined to Answer,14,NDSAE,Y,1,1,0,0,0,0,1,0,1,0,0,0,N,N,N,Y,N,N
+360,Declined to Answer,Declined to Answer,30,YAT,Y,0,0,0,0,1,0,0,0,1,0,0,0,D,D,D,D,D,D
+610,Female,Hispanic/Latino,22,YAT,Y,1,0,0,1,1,0,0,0,1,0,0,1,N,N,N,N,N,N
+111,Declined to Answer,Declined to Answer,37,NUC,N,1,0,0,0,1,0,0,0,0,0,0,0,D,D,D,D,D,D
+120,Female,African,37,NOT,Y,1,0,0,0,1,0,0,0,0,0,0,1,N,N,Y,N,N,Y
+309,Male,African-American,30,YAT,Y,1,0,0,0,1,0,0,0,1,0,0,1,N,N,N,N,N,N
+145,Declined to Answer,Declined to Answer,34,NOT,Y,1,0,0,0,1,0,0,0,0,0,0,0,N,D,D,D,D,D
+35,Female,Hispanic/Latino,32,NOT,N,1,0,0,0,0,0,0,0,0,0,0,0,N,N,Y,D,Y,Y
+55,Male,Indian,52,NOT,Y,0,0,0,0,1,0,0,0,1,0,0,1,Y,N,N,N,Y,N
+88,Female,Caucasian,20,NUC,N,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+93,Female,Hispanic/Latino,38,NDSE,Y,1,0,0,1,0,0,0,0,1,0,0,0,Y,N,N,Y,N,N
+168,Female,Caucasian,33,NDSAE,Y,1,1,0,0,0,0,1,0,1,0,0,0,N,N,N,N,N,N
+115,Female,Hispanic/Latino,40,NOT,N,1,0,0,0,0,0,0,0,1,0,0,0,N,N,Y,N,N,Y
+474,Female,Caucasian,26,YAT,Y,1,1,0,1,0,0,0,0,1,0,0,0,Y,N,N,N,N,N
+355,Male,Caucasian,34,YAT,Y,1,1,0,0,1,0,0,0,1,1,0,1,Y,N,N,Y,N,N
+735,Female,Hispanic/Latino,18,YTTMC,N,1,1,1,0,1,0,0,1,1,0,0,0,N,N,N,N,N,N
+24,Female,Caucasian,44,NOT,Y,0,0,0,0,0,0,0,0,1,0,0,1,N,N,N,N,N,N
+237,Female,Caucasian,22,NP,Y,1,0,1,1,1,0,0,0,0,0,0,0,N,N,N,N,N,N
+47,Female,Caucasian,22,NLAMA,N,0,0,0,0,0,0,0,0,0,0,0,0,N,N,N,N,N,N
+319,Female,African,41,YME,N,1,0,0,0,1,1,0,0,0,1,0,0,Y,N,Y,N,Y,Y
+280,Male,Caucasian,43,YAT,Y,1,1,0,0,1,0,0,0,0,0,0,0,N,N,N,Y,Y,N
+83,Female,Caucasian,37,NP,Y,1,0,0,0,1,0,0,0,0,0,0,0,Y,N,N,Y,N,N
+50,Female,Caucasian,37,NDSAE,N,1,0,0,0,0,0,0,0,0,0,0,0,Y,N,N,Y,N,N
+229,Female,Hispanic/Latino,23,NDSAE,Y,1,0,0,0,1,0,0,0,1,0,0,1,N,N,N,N,N,N
+53,Female,Caucasian,19,NDSAE,Y,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,Y,N,N
+343,Female,Caucasian,18,YAT,Y,1,1,0,0,0,0,1,0,1,0,0,0,N,N,N,N,N,N
+263,Female,Caucasian,26,NDSAE,Y,1,1,0,0,0,0,0,0,1,0,0,0,Y,N,N,N,N,N
+272,Female,Hispanic/Latino,24,YAT,Y,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+330,Female,Hispanic/Latino,40,YAT,Y,1,1,0,0,1,1,0,1,1,1,0,0,Y,N,N,N,N,N
+397,Declined to Answer,Declined to Answer,61,NUC,N,1,0,0,0,1,0,0,0,1,0,0,0,D,D,D,D,D,D
+469,Female,Caucasian,23,YAT,Y,1,1,0,1,1,0,0,1,1,0,0,0,N,N,N,N,N,N
+330,Female,Caucasian,19,NDSAE,N,1,0,0,0,1,0,0,0,1,0,0,0,D,D,D,D,D,D
+154,Female,Caucasian,37,NDSE,Y,1,0,1,1,0,0,0,0,1,1,0,0,N,N,N,N,N,N
+46,Female,Native American,27,NOT,Y,1,0,0,0,1,0,0,0,1,0,1,1,N,N,N,Y,N,N
+458,Female,Multiethnic,62,YME,Y,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+90,Female,Caucasian,37,NOT,Y,1,0,0,0,1,0,0,0,1,0,1,1,N,N,N,Y,N,N
+37,Female,Declined to Answer,17,NUC,N,1,0,0,0,1,0,0,0,0,0,0,1,D,D,D,D,D,D
+365,Female,Caucasian,19,YR,Y,1,0,0,1,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+145,Female,Asian,18,NDSAE,Y,1,1,0,1,0,0,0,0,1,0,0,0,N,N,N,Y,N,N
+343,Female,Hispanic/Latino,18,YAT,Y,1,1,0,1,0,0,0,0,1,1,0,0,N,N,N,Y,N,N
+295,Female,Native American,23,YAT,Y,1,0,0,0,1,0,0,1,1,1,0,0,D,D,D,D,D,D
+443,Female,Caucasian,18,YTBM,N,1,1,0,1,1,0,0,0,1,0,0,1,N,N,N,N,N,N
+150,Female,Multiethnic,62,NUC,Y,1,0,0,0,0,0,0,0,0,0,0,0,N,N,D,N,N,D
+575,Female,Hispanic/Latino,33,NPSASTR,N,1,0,0,0,0,1,0,0,0,0,0,0,N,N,N,D,N,N
+139,Female,Multiethnic,62,NUC,Y,1,0,0,0,1,0,0,0,0,0,0,0,N,N,D,N,N,D
+19,Female,Caucasian,18,NOT,Y,1,0,0,0,1,0,0,0,0,0,0,0,N,N,N,D,N,N
+17,Female,Caucasian,18,NOT,Y,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,D,N,N
+283,Female,Native American,31,NPSASTR,N,1,0,0,0,0,0,0,0,0,0,0,1,Y,N,N,Y,N,N
+327,Female,Hispanic/Latino,22,YSO,Y,1,0,0,0,0,0,0,1,1,0,0,1,N,N,N,N,N,N
+315,Female,Native American,48,YAT,Y,1,1,0,0,0,0,1,0,1,0,0,0,Y,N,N,N,N,N
+147,Female,Native American,31,NUC,N,0,1,0,0,1,0,0,0,0,0,0,0,Y,N,N,Y,N,N
+526,Female,Hispanic/Latino,52,YSO,Y,1,0,0,0,1,0,0,0,1,0,0,1,N,N,N,N,N,N
+75,Female,Caucasian,83,NDSAE,Y,1,1,0,0,0,0,0,0,0,0,0,1,N,N,N,N,N,N
+170,Female,Hispanic/Latino,52,NDSE,Y,1,1,0,0,0,0,1,0,1,0,0,0,N,N,N,N,N,N
+42,Female,Declined to Answer,65,NLAMA,N,1,0,0,0,0,0,0,0,0,0,0,1,D,D,D,D,D,D
+151,Female,Hispanic/Latino,18,NDSAE,N,1,0,0,0,0,0,1,0,1,0,0,0,N,N,N,N,N,N
+276,Female,Caucasian,43,YAT,Y,1,1,0,0,0,0,0,0,1,0,1,0,N,N,N,N,N,N
+186,Female,Multiethnic,20,NDSAE,Y,1,1,0,0,0,0,1,0,1,0,0,0,Y,N,N,Y,N,N
+502,Female,Hispanic/Latino,23,YTBM,Y,0,0,0,1,1,1,0,1,1,1,0,0,N,N,N,Y,N,N
+130,Female,Hispanic/Latino,22,NOT,Y,1,0,0,0,1,0,1,0,1,0,1,1,N,N,N,Y,N,N
+60,Female,Hispanic/Latino,41,NDSAE,Y,1,0,0,0,1,0,0,0,0,0,0,0,N,N,N,N,N,N
+30,Female,Hispanic/Latino,25,NUC,Y,1,0,0,0,0,0,1,0,0,0,0,0,N,N,N,D,N,N
+35,Declined to Answer,Declined to Answer,38,NUC,N,0,0,0,0,0,0,0,0,0,0,0,0,Y,D,D,D,D,D
+55,Female,Hispanic/Latino,38,NUC,N,1,0,0,0,1,0,0,0,0,0,0,0,Y,D,D,Y,D,D
+152,Female,Caucasian,18,YR,N,1,0,0,0,0,0,0,0,0,0,0,1,N,N,N,N,N,N
+168,Female,Hispanic/Latino,13,NDSAE,Y,1,1,0,0,1,0,0,0,0,0,0,0,N,N,N,N,N,N
+31,Declined to Answer,Declined to Answer,27,NOT,Y,1,0,0,0,0,0,0,0,1,0,0,0,D,D,D,D,D,D
+47,Male,Hispanic/Latino,60,NUC,N,1,0,0,0,0,0,0,0,0,0,0,1,N,N,N,N,N,N
+"1,180",Male,Hispanic/Latino,60,YTTMC,Y,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+85,Female,Caucasian,56,NDSE,Y,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+373,Female,Native American,34,YAT,N,1,0,0,0,1,0,0,0,1,0,0,1,N,N,N,N,N,N
+523,Male,Hispanic/Latino,30,YAT,Y,1,0,0,0,1,0,0,0,1,0,0,1,N,N,N,N,N,N
+580,Female,Native American,28,YAT,Y,1,1,0,1,1,0,1,1,1,0,0,0,N,N,N,Y,N,N
+325,Female,Caucasian,42,YAT,Y,1,0,0,0,0,0,0,0,1,0,0,0,Y,N,N,N,N,N
+"1,065",Female,Caucasian,42,NDSAE,N,1,1,0,0,1,0,0,0,1,0,0,1,Y,N,N,N,N,N
+100,Female,Declined to Answer,22,NDSAE,Y,1,0,0,0,1,0,0,0,1,0,0,1,N,N,N,N,N,N
+288,Female,Declined to Answer,22,NUC,Y,0,0,0,1,1,1,0,1,1,0,0,1,N,N,N,N,N,N
+260,Female,Caucasian,51,YR,N,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+18,Female,Hispanic/Latino,43,NDSAE,Y,1,0,0,0,1,0,0,0,1,1,0,1,N,N,N,N,N,N
+428,Female,Caucasian,38,YAT,N,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,Y,N
+120,Female,Hispanic/Latino,32,NP,Y,1,1,0,0,1,0,0,0,1,1,0,1,N,N,N,Y,N,N
+269,Female,African-American,40,YTTMC,Y,0,0,1,0,1,0,0,0,0,0,1,0,N,N,N,Y,Y,N
+990,Female,Declined to Answer,29,YAT,Y,1,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,D,D
+"1,277",Female,Caucasian,51,NDSAE,Y,1,1,0,0,0,0,0,0,1,1,0,1,D,D,D,D,D,D
+12,Female,Caucasian,49,NDSAE,N,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,N,N,N
+188,Female,Hispanic/Latino,43,NP,Y,1,1,0,0,1,0,0,0,1,0,0,1,N,N,N,N,N,N
+72,Female,Hispanic/Latino,32,NDSAE,Y,1,1,0,1,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+215,Female,Hispanic/Latino,32,YAT,Y,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,Y,N,N
+265,Female,Caucasian,40,YAT,Y,1,1,0,0,1,0,1,1,1,0,0,0,Y,N,N,N,N,N
+99,Female,Multiethnic,21,NOT,Y,1,1,0,1,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+368,Female,Caucasian,26,YAT,Y,1,1,0,0,1,0,0,1,1,0,0,1,Y,N,N,D,N,N
+75,Male,Hispanic/Latino,42,NUC,N,1,0,0,0,0,0,0,0,1,0,0,0,Y,N,N,Y,N,N
+275,Female,Hispanic/Latino,27,YAT,Y,1,1,0,0,1,0,0,0,1,1,0,1,N,N,N,N,N,N
+550,Female,Hispanic/Latino,34,YAT,N,1,1,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+268,Female,Hispanic/Latino,21,YAT,Y,1,0,0,0,1,0,0,0,0,1,0,0,N,N,N,Y,N,N
+120,Male,Caucasian,38,NNA,Y,0,1,1,0,1,0,0,1,0,0,0,0,N,N,N,N,N,N
+"1,005",Female,Caucasian,59,YAT,Y,1,1,0,0,1,0,1,0,1,1,0,1,Y,N,N,N,N,N
+297,Female,Caucasian,31,YAT,Y,0,0,0,1,1,0,0,1,1,0,1,1,N,N,N,Y,N,N
+182,Female,Caucasian,19,NDSAE,Y,1,0,0,0,1,0,1,0,1,0,0,1,N,N,N,N,N,N
+605,Declined to Answer,Declined to Answer,33,NDSAE,N,1,0,0,0,0,0,0,0,1,0,0,1,D,D,D,D,D,D
+320,Female,Hispanic/Latino,29,YME,Y,1,0,0,1,1,1,0,0,1,0,0,0,N,N,N,N,N,N
+325,Female,Multiethnic,36,NDSAE,N,1,0,0,0,0,0,0,0,0,0,0,0,Y,N,N,Y,N,N
+38,Female,Caucasian,21,NDSAE,Y,0,0,0,1,1,0,0,0,0,0,1,0,D,D,D,D,D,D
+711,Female,Hispanic/Latino,33,YME,Y,0,0,0,1,1,0,0,0,1,0,0,0,N,N,Y,N,N,Y
+674,Female,Caucasian,26,YTTMC,Y,1,0,0,0,1,0,0,0,1,0,1,0,N,N,N,N,N,N
+45,Female,Hispanic/Latino,4,NNA,N,1,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,D,D
+34,Male,Caucasian,40,NDSAE,N,1,0,0,0,0,0,0,0,0,0,0,1,D,D,D,D,D,D
+45,Female,Caucasian,43,NOT,N,1,0,0,0,1,0,0,0,1,0,0,0,Y,D,D,D,D,D
+315,Female,Caucasian/AA,28,YSO,Y,1,1,1,1,0,0,0,0,1,0,0,0,N,N,N,Y,N,N
+297,Female,Hispanic/Latino,18,YAT,Y,1,0,0,1,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+405,Female,Hispanic/Latino,39,YSO,Y,1,1,1,1,0,0,1,1,1,0,1,0,N,N,N,N,N,Y
+608,Female,Caucasian,50,YSO,Y,1,1,1,0,1,0,0,0,1,1,0,1,N,N,N,N,N,N
+192,Female,Caucasian,17,NTCAC,Y,1,0,0,1,1,0,0,1,0,0,0,0,N,N,N,D,N,N
+346,Female,Caucasian,18,YAT,Y,1,1,0,0,1,0,1,1,1,0,0,0,N,N,N,N,N,N
+83,Male,Caucasian,23,NDSE,Y,1,0,0,0,0,0,0,0,1,1,0,0,N,N,N,Y,N,N
+123,Male,Hispanic/Latino,39,NDSAE,N,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,Y,N
+580,Female,Hispanic/Latino,20,YAT,Y,1,0,0,1,1,0,0,1,0,0,0,0,N,N,N,N,N,N
+930,Female,Hispanic/Latino,20,YAT,Y,0,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+784,Female,Caucasian,23,YAT,Y,1,0,0,1,1,0,0,1,1,0,0,0,N,N,N,Y,N,N
+270,Male,Caucasian,53,YSO,Y,1,1,0,0,1,1,0,1,1,0,0,0,N,N,N,N,N,N
+240,Female,Asian,22,NDSAE,Y,0,0,0,1,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+350,Female,Native American,20,YAT,Y,1,0,0,1,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+34,Female,Hispanic/Latino,25,YR,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+417,Male,Hispanic/Latino,18,YAT,Y,1,1,1,1,1,0,0,1,1,0,0,0,N,N,Y,N,N,N
+334,Female,Native American,10,NNA,N,1,1,1,0,0,0,0,0,1,0,0,1,N,N,N,N,N,N
+167,Female,Declined to Answer,20,NDSAE,Y,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+743,Female,Declined to Answer,24,YSO,Y,1,0,1,1,1,1,0,1,1,0,1,0,N,N,N,,N,N
+180,Female,Hispanic/Latino,17,NOT,Y,0,0,0,1,1,0,0,1,1,1,0,0,N,N,N,N,N,N
+148,Female,Caucasian,81,NUC,N,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+24,Declined to Answer,Declined to Answer,64,NLAMA,N,0,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,D,D
+125,Female,Hispanic/Latino,23,NDSAE,Y,1,1,0,0,1,0,0,0,1,0,0,0,N,N,N,Y,N,N
+85,Declined to Answer,Declined to Answer,37,NUC,N,0,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,D,D
+134,Female,Indian,75,YAT,Y,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,N,N,N
+410,Gender Varient,Multiethnic,18,YAT,Y,1,0,0,0,0,0,0,1,0,1,0,0,N,N,N,Y,N,N
+525,Female,Hispanic/Latino,37,YTBM,Y,0,0,0,0,0,0,0,0,0,0,0,0,Y,N,N,N,N,N
+50,Female,Hispanic/Latino,23,NDSAE,Y,1,1,0,0,1,0,0,0,1,0,1,0,N,N,N,Y,N,N
+85,Male,Hispanic/Latino,49,NOT,Y,1,0,0,0,1,0,0,1,0,0,0,0,N,N,N,N,Y,N
+"1,010",Female,Hispanic/Latino,29,YAT,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,Y,N,N
+281,Female,African,17,NOT,Y,1,0,0,0,0,0,0,0,0,0,0,0,N,N,Y,N,N,N
+40,Declined to Answer,Declined to Answer,13,NOT,N,1,1,0,0,1,0,0,0,1,0,0,1,D,D,D,D,D,D
+635,Female,Asian,25,YAT,Y,1,0,0,0,1,0,0,0,1,0,0,1,N,N,N,Y,N,N
+23,Female,African-American,26,NOT,N,1,0,0,0,0,0,0,0,0,0,0,1,Y,N,N,N,N,N
+52,Declined to Answer,Declined to Answer,53,NDSAE,N,1,0,0,0,0,0,0,0,0,0,0,0,Y,N,N,N,N,N
+573,Female,African-American,36,YAT,Y,1,0,0,0,0,0,0,0,0,1,0,1,N,N,N,Y,N,N
+"1,033",Female,Native American,51,YTBM,Y,1,0,0,0,1,0,0,0,1,0,0,1,Y,N,N,N,N,N
+64,Female,Hispanic/Latino,13,NOT,Y,1,1,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+866,Female,African-American,36,NUC,Y,1,0,0,0,1,0,0,0,1,0,0,0,Y,N,N,Y,N,N
+425,Intersex,Caucasian,25,YAT,N,1,0,0,0,0,0,0,0,0,0,0,1,N,N,N,Y,Y,N
+855,Female,Native American,33,YAT,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+370,Female,African-American,18,NDSAE,N,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+450,Female,Hispanic/Latino,22,YR,Y,1,0,0,0,1,0,0,0,1,0,0,1,N,N,N,N,N,N
+217,Intersex,Caucasian,25,NUC,N,1,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,Y,D
+251,Female,Native American,33,NDSAE,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+848,Female,Hispanic/Latino,20,YSO,Y,0,0,0,0,0,0,0,0,0,0,0,0,N,N,N,N,N,N
+565,Declined to Answer,Declined to Answer,22,YAT,Y,0,1,1,0,1,1,0,1,1,1,0,1,D,D,D,D,D,D
+892,Female,Hispanic/Latino,37,YAT,Y,1,0,0,0,1,0,0,1,1,0,0,0,Y,N,N,N,N,N
+495,Female,Hispanic/Latino,16,YAT,Y,1,0,0,0,1,0,0,0,1,0,1,1,N,N,N,N,N,N
+465,Female,Hispanic/Latino,17,YAT,Y,1,1,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+387,Female,Hispanic/Latino,29,YAT,Y,1,1,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+30,Female,Declined to Answer,27,NUC,N,1,0,0,0,0,0,0,0,1,0,0,1,D,D,D,D,Y,D
+330,Female,Caucasian,57,YAT,Y,1,1,0,0,1,0,0,0,1,0,0,0,Y,N,N,N,N,N
+315,Female,Caucasian,57,NP,Y,1,0,0,0,1,0,0,1,1,0,0,1,Y,N,N,N,N,N
+57,Female,Hispanic/Latino,42,NOT,N,1,0,0,0,0,0,0,0,1,0,0,0,Y,N,N,Y,N,N
+76,Female,Caucasian,62,NDSAE,N,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+203,Female,Middle Eastern,29,NDSAE,Y,1,1,0,0,1,0,0,0,1,1,0,0,N,N,N,Y,N,N
+125,Male,Hispanic/Latino,24,NNA,N,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+485,Gender Varient,Hispanic/Latino,18,YAT,Y,1,1,0,0,1,0,0,0,0,1,0,1,Y,N,N,Y,N,N
+120,Female,Hispanic/Latino,61,NDSAE,Y,1,1,0,0,0,0,0,1,1,0,0,0,N,N,N,Y,N,N
+70,Transgender,Hispanic/Latino,19,YAT,Y,1,1,0,0,1,0,0,0,1,0,0,0,N,N,N,Y,N,N
+795,Gender Varient,Hispanic/Latino,18,NUC,Y,1,1,0,0,1,0,0,0,1,0,0,1,Y,N,N,Y,N,N
+120,Female,Declined to Answer,58,NUC,N,1,0,0,0,0,0,0,0,1,0,0,0,Y,N,D,D,D,D
+446,Female,Caucasian,17,NDSAE,Y,1,1,1,0,0,0,0,0,1,1,0,1,N,N,N,N,N,N
+315,Female,Middle Eastern,29,YAT,Y,1,0,0,0,1,0,0,0,1,1,0,0,N,N,N,N,N,N
+135,Female,Native American,34,NDSAE,Y,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+160,Female,Native American,34,NDSAE,Y,1,1,0,1,1,0,0,0,1,1,0,1,N,N,N,N,N,N
+500,Female,Hispanic/Latino,30,YAT,Y,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+245,Female,Declined to Answer,42,YR,Y,1,1,0,0,0,0,0,0,1,0,0,1,N,N,N,N,N,N
+400,Female,Hispanic/Latino,20,YAT,Y,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,N,N,N
+20,Female,Hispanic/Latino,53,NDSAE,N,1,0,0,0,1,0,0,0,1,0,0,0,D,D,D,D,D,D
+130,Female,African-American,30,NDSE,N,1,0,0,0,0,0,0,0,1,1,0,0,Y,N,N,N,N,N
+495,Female,Hispanic/Latino,17,YAT,Y,1,0,0,1,1,0,1,0,1,0,0,0,N,N,Y,N,N,N
+170,Female,African-American,16,NPSASTR,Y,1,0,0,0,1,0,0,1,1,0,0,0,N,N,N,N,N,N
+670,Male,Hispanic/Latino,28,YME,Y,1,1,0,0,1,0,0,1,1,0,0,0,N,N,N,N,N,N
+159,Female,African-American,17,YME,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,,N,N
+387,Male,Native American,42,YAT,N,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,Y,N
+591,Male,Caucasian,20,YAT,Y,1,0,0,0,1,0,0,0,1,0,0,1,Y,N,N,Y,N,N
+218,Female,Caucasian,61,NDSAE,Y,1,0,0,1,1,1,0,0,1,1,1,0,N,N,N,N,N,N
+665,Female,Hispanic/Latino,34,YAT,Y,1,1,1,0,1,0,0,1,1,1,0,1,N,N,Y,N,N,Y
+88,Female,Hispanic/Latino,17,NDSAE,N,1,0,0,0,0,0,0,0,1,0,0,0,N,N,Y,N,N,Y
+15,Declined to Answer,Declined to Answer,26,NDSAE,N,1,0,0,0,0,0,0,0,0,0,0,1,D,D,D,D,D,D
+700,Female,African-American,32,YAT,Y,0,1,0,1,1,0,0,0,1,0,0,0,Y,Y,N,N,N,N
+159,Female,Middle Eastern,37,NDSAE,Y,0,0,0,0,1,0,0,0,0,0,0,0,N,N,Y,N,N,N
+571,Female,Hispanic/Latino,16,YTTMC,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,Y,Y,N,Y
+117,Female,Caucasian,47,NOT,Y,1,1,1,0,0,0,1,0,1,1,0,1,Y,N,N,N,N,N
+49,Female,Native American,37,NDSAE,Y,1,0,0,0,1,0,0,0,1,1,0,0,N,N,N,N,N,N
+155,Declined to Answer,Declined to Answer,28,NOT,N,0,1,1,0,1,0,0,0,0,0,0,0,D,D,Y,D,Y,Y
+160,Female,Hispanic/Latino,33,NDSAE,Y,1,0,0,0,1,0,1,0,0,0,0,1,N,N,Y,N,N,Y
+143,Female,Hispanic/Latino,21,NDSAE,Y,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+697,Female,Caucasian,27,YAT,Y,1,0,0,0,0,0,0,0,1,0,0,1,N,N,N,Y,N,N
+19,Female,Caucasian,75,NDSAE,N,1,0,0,0,1,0,0,0,1,0,0,1,N,N,N,N,N,N
+887,Female,Hispanic/Latino,41,YAT,Y,1,0,0,1,1,0,0,1,1,1,0,0,N,N,N,N,N,N
+20,Male,Caucasian,58,NDSAE,N,1,0,0,0,0,0,0,0,0,0,0,1,D,D,D,D,D,D
+160,Female,Hispanic/Latino,25,NDSAE,N,0,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+230,Female,Hispanic/Latino,24,NP,Y,1,1,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+403,Female,Caucasian,28,YAT,Y,1,1,1,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+937,Female,Declined to Answer,58,NDSAE,N,1,0,0,0,1,0,1,0,1,0,0,1,Y,N,D,D,D,D
+180,Female,Hispanic/Latino,25,NOT,Y,1,0,0,0,0,0,0,0,1,0,0,1,Y,N,N,N,N,N
+380,Female,Hispanic/Latino,26,NDSE,Y,1,1,1,0,1,0,0,0,1,0,0,1,N,N,N,N,N,N
+430,Female,Caucasian,29,YR,Y,1,1,1,1,1,0,0,1,1,1,0,1,N,N,N,N,N,N
+993,Female,Native American,37,YSO,Y,1,1,1,0,1,0,1,1,1,0,1,1,N,N,N,N,N,N
+51,Female,Declined to Answer,23,NUC,N,1,0,0,0,0,0,0,0,0,0,0,1,D,D,D,D,D,D
+152,Male,Hispanic/Latino,37,NOT,Y,1,1,1,0,1,0,0,0,1,0,0,0,N,N,N,N,Y,N
+292,Female,Caucasian,37,NPSASTR,Y,1,0,0,0,0,0,0,0,0,0,0,1,D,D,D,D,D,D
+729,Male,Caucasian,19,YAT,Y,1,0,0,0,1,0,0,0,0,0,0,1,N,N,N,Y,N,N
+25,Female,Declined to Answer,32,NDSAE,N,1,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,D,D
+606,Male,Hispanic/Latino,61,YSO,Y,1,1,0,0,1,0,0,1,1,0,1,0,N,N,N,N,N,N
+113,Female,Hispanic/Latino,14,NNA,N,0,1,1,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+153,Female,Native American,28,NDSAE,Y,1,0,0,1,0,0,0,0,1,1,0,0,N,N,N,N,N,N
+"1,260",Questioning,Hispanic/Latino,22,NP,Y,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,N,N,N
+390,Female,Hispanic/Latino,29,YAT,Y,1,1,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+600,Female,Caucasian,44,NDSAE,Y,1,1,0,0,1,0,0,0,1,1,0,0,Y,N,N,N,N,N
+300,Female,Caucasian,13,YAT,Y,1,0,0,0,1,1,0,1,1,0,0,1,N,N,N,N,N,N
+442,Transgender,Caucasian,22,NP,Y,1,1,1,1,1,1,0,1,1,0,1,0,N,N,N,Y,N,N
+275,Male,Caucasian,42,YAT,Y,1,1,0,0,1,0,0,1,1,1,0,0,Y,N,N,D,N,N
+406,Male,Multiethnic,44,YAT,Y,1,0,0,0,0,0,0,0,0,0,0,1,N,N,N,N,N,N
+769,Female,Native American,16,YSO,Y,1,1,0,0,1,1,0,1,1,0,1,0,Y,N,N,N,N,N
+25,Female,Caucasian,46,NDSAE,N,1,0,0,0,0,0,0,0,0,0,0,1,Y,N,N,N,N,N
+246,Female,Native American,28,YAT,Y,1,1,1,0,1,0,0,0,1,1,0,1,Y,N,N,N,N,N
+230,Female,Declined to Answer,39,NPSASTR,Y,1,0,0,0,0,0,0,1,1,0,0,0,D,D,D,D,D,D
+617,Female,Native American,37,YAT,Y,0,1,0,1,1,0,0,1,1,0,0,0,Y,N,N,N,N,N
+617,Female,Native American,7,NTCAC,N,0,1,0,0,1,0,1,0,1,0,0,0,Y,N,N,N,N,N
+417,Female,Caucasian,48,YAT,Y,1,0,0,0,1,0,0,0,1,1,0,0,N,N,N,N,N,N
+45,Female,Native American,24,NDSAE,Y,1,1,0,0,1,0,0,1,1,1,1,0,N,N,N,N,N,N
+443,Female,Hispanic/Latino,20,YSO,Y,1,0,0,1,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+235,Female,Caucasian,75,YTTMC,Y,1,1,0,0,1,0,0,1,1,1,0,0,N,N,N,N,N,N
+285,Female,Indian,75,YAT,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+320,Female,Caucasian,51,NOT,Y,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,D,N,N
+44,Female,Declined to Answer,13,NOT,N,1,0,0,0,1,0,0,0,0,0,0,0,D,D,D,D,D,D
+77,Female,Caucasian,32,NOT,Y,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,Y
+413,Male,African-American,38,YTTMC,Y,1,1,1,1,1,0,0,1,1,0,1,1,N,Y,N,N,N,N
+110,Female,Hispanic/Latino,42,NDSE,Y,1,1,1,0,1,0,0,0,1,0,0,1,N,N,N,N,N,Y
+186,Male,Hispanic/Latino,8,NNA,Y,1,1,0,0,1,0,0,1,1,1,0,0,N,N,N,N,N,N
+585,Female,Hispanic/Latino,50,YSO,Y,1,0,0,0,0,0,0,0,1,0,0,0,N,N,Y,N,N,N
+320,Female,Caucasian,20,YAT,Y,1,0,0,0,1,0,0,0,1,1,0,1,N,N,N,N,N,N
+350,Female,African-American,22,YSO,N,1,1,0,0,1,0,0,0,1,0,1,0,N,N,N,N,N,N
+250,Female,Caucasian,28,YAT,Y,1,0,0,0,1,0,0,0,1,0,0,0,Y,N,N,N,Y,N
+229,Female,Hispanic/Latino,46,NDSAE,Y,1,1,0,0,0,0,0,0,1,0,0,0,Y,N,N,D,N,N
+407,Female,Hispanic/Latino,26,YSO,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+89,Female,Hispanic/Latino,25,NDSAE,Y,1,0,0,0,1,0,0,0,1,0,0,0,Y,N,Y,N,N,Y
+956,Female,Caucasian,35,YSO,Y,1,1,1,0,1,1,0,0,1,0,0,0,N,N,N,N,N,N
+408,Female,African-American,23,NDSE,Y,1,0,0,0,0,0,0,0,1,0,0,0,Y,N,N,N,N,N
+351,Female,Hispanic/Latino,19,NDSAE,Y,1,0,0,0,0,0,0,0,1,1,0,0,N,N,N,N,N,N
+100,Female,Hispanic/Latino,34,NUC,Y,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,Y,N,N
+150,Female,Hispanic/Latino,23,NOT,Y,1,1,1,0,1,0,1,1,1,0,0,0,N,N,N,Y,N,N
+"1,069",Female,Caucasian,46,YR,Y,1,1,0,1,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+35,Female,Caucasian,35,NDSAE,N,0,0,0,0,0,0,0,0,0,0,0,0,Y,N,N,N,N,N
+460,Female,Hispanic/Latino,17,YAT,Y,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+93,Male,Caucasian,30,NLAMA,N,0,0,0,0,0,0,0,0,0,0,0,0,N,N,N,N,N,N
+720,Female,Hispanic/Latino,16,YAT,Y,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+372,Female,Caucasian,18,YAT,Y,1,0,0,0,1,0,0,0,0,0,1,1,Y,N,N,N,N,N
+195,Female,Hispanic/Latino,6,NTCAC,Y,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+59,Female,Caucasian,48,NPSASTR,Y,1,0,0,0,1,0,0,0,0,0,0,1,N,N,N,N,N,N
+591,Female,Caucasian,50,YAT,Y,1,1,0,0,0,0,0,0,1,1,0,0,N,N,N,Y,N,N
+956,Female,Caucasian,18,NUC,Y,1,1,0,0,0,0,0,0,1,1,0,0,Y,N,N,N,N,N
+65,Male,Caucasian,35,NDSAE,N,1,0,0,0,1,0,0,0,1,0,0,1,Y,D,D,D,D,D
+795,Female,Native American,41,YSO,Y,1,0,0,0,1,0,0,1,1,0,0,1,N,N,N,N,N,N
+45,Female,Hispanic/Latino,30,NOT,N,1,0,0,0,0,0,0,0,0,0,0,0,Y,N,Y,N,Y,Y
+483,Female,Native American,23,YAT,Y,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,N,Y,N
+170,Female,African-American,31,NOT,Y,1,0,0,0,1,0,0,0,1,1,0,1,N,N,N,N,N,N
+317,Female,Hispanic/Latino,34,YAT,Y,1,0,0,0,1,0,1,0,1,0,0,0,N,N,Y,N,N,Y
+94,Female,Caucasian,32,NOT,Y,1,0,0,0,0,0,1,0,1,0,0,0,N,N,N,N,N,Y
+506,Female,Native American,37,YSO,N,1,0,0,1,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+145,Female,Caucasian,24,NP,Y,1,1,1,1,1,0,0,0,1,1,0,1,N,N,N,Y,N,N
+450,Female,African-American,35,YAT,Y,1,1,0,1,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+180,Female,Hispanic/Latino,34,NOT,Y,1,0,0,0,1,1,0,0,1,1,0,0,N,N,N,N,N,N
+40,Male,Caucasian,30,NDSAE,Y,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,N,N,N
+80,Male,Declined to Answer,5,NNA,Y,1,1,0,0,1,0,0,0,0,0,0,1,N,N,N,N,N,N
+35,Declined to Answer,Declined to Answer,27,NLAMA,N,1,0,0,0,0,0,0,0,0,0,0,1,D,D,D,D,D,D
+319,Female,Hispanic/Latino,27,YSO,N,1,0,0,0,0,0,0,0,0,0,1,0,N,N,N,N,N,N
+150,Female,Hispanic/Latino,31,NPSASTR,Y,1,0,0,0,1,0,1,0,1,1,0,1,N,N,N,N,N,N
+395,Female,Hispanic/Latino,35,YAT,Y,1,0,0,1,0,0,0,0,0,1,0,0,Y,N,Y,N,N,N
+140,Female,Native American,48,NDSAE,Y,1,0,0,0,1,0,1,0,1,1,0,1,Y,N,D,D,D,D
+183,Male,Hispanic/Latino,20,YAT,Y,1,1,1,0,1,0,1,0,1,0,1,0,N,N,N,N,Y,N
+150,Female,African-American,24,NP,Y,1,1,1,1,1,0,0,0,1,0,1,1,N,N,N,Y,N,N
+210,Male,African-American,25,NDSAE,Y,1,0,0,0,1,0,0,1,1,1,0,0,N,N,N,N,N,N
+12,Declined to Answer,Declined to Answer,51,NLAMA,N,1,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,D,D
+455,Female,Caucasian,21,YAT,Y,1,1,0,0,1,0,0,0,1,1,0,0,N,N,N,N,N,N
+895,Female,Hispanic/Latino,30,YAT,Y,1,1,0,1,1,0,1,0,1,0,0,0,Y,N,N,N,N,N
+635,Female,Hispanic/Latino,21,YAT,Y,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+360,Female,Hispanic/Latino,45,NDSAE,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,Y,N,N,N
+108,Male,Caucasian,30,NDSAE,Y,1,0,0,0,0,0,0,0,1,1,0,1,N,N,N,N,N,N
+167,Transgender,Native American,42,NDSAE,Y,1,0,0,0,0,0,0,0,1,0,0,0,Y,N,N,Y,N,N
+360,Male,Caucasian,59,YAT,N,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+235,Female,Hispanic/Latino,41,NDSAE,Y,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+90,Declined to Answer,Declined to Answer,18,NP,Y,1,0,0,0,0,0,0,0,1,0,0,0,D,D,D,D,D,D
+133,Declined to Answer,Declined to Answer,16,NDSAE,N,1,0,0,0,0,0,0,0,1,0,0,0,D,D,D,D,D,D
+199,Female,African-American,44,NOT,Y,1,0,0,1,1,0,1,1,1,1,0,1,Y,N,N,Y,N,N
+160,Female,Declined to Answer,18,NDSAE,Y,1,0,0,1,1,0,0,1,1,0,1,1,Y,N,N,N,N,N
+370,Female,Native American,35,YAT,Y,1,1,0,0,1,0,1,1,1,0,0,0,N,Y,N,N,N,N
+106,Female,Caucasian,13,NOT,Y,1,1,1,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+540,Female,Hispanic/Latino,32,YSO,Y,1,1,1,0,0,0,0,1,1,0,0,0,N,D,N,N,N,N
+515,Female,Hispanic/Latino,23,YTTMC,Y,1,0,0,0,1,0,0,0,1,0,1,0,N,N,N,N,N,N
+910,Female,Caucasian,26,YTBM,Y,1,1,0,0,1,0,1,0,1,0,0,0,Y,N,N,Y,N,N
+50,Declined to Answer,Declined to Answer,29,NUC,Y,1,0,0,0,0,0,0,0,1,0,0,0,Y,D,D,D,D,D
+370,Female,Hispanic/Latino,26,YAT,Y,1,0,0,0,1,0,0,0,1,0,0,0,Y,N,N,Y,Y,N
+250,Female,Multiethnic,17,NDSAE,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,Y,N,N
+370,Female,Declined to Answer,48,NLAMA,N,1,0,0,0,0,0,0,0,1,0,0,0,D,D,D,D,D,D
+230,Female,Hispanic/Latino,33,NDSE,Y,1,0,0,0,1,0,0,0,1,0,0,0,Y,N,N,Y,N,N
+490,Female,Hispanic/Latino,29,YAT,Y,1,1,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+517,Female,Hispanic/Latino,18,NDSAE,Y,1,0,0,0,0,0,0,0,1,1,0,0,,N,Y,Y,N,N
+302,Male,Hispanic/Latino,22,YR,Y,1,0,0,0,1,0,0,0,1,0,0,1,N,N,N,Y,N,N
+345,Female,Caucasian,42,YME,Y,1,1,1,1,1,0,0,1,1,0,1,1,N,N,N,N,N,N
+125,Declined to Answer,Declined to Answer,30,NUC,N,1,0,0,0,1,0,0,0,0,0,0,0,D,D,D,D,D,D
+396,Declined to Answer,Declined to Answer,30,YAT,Y,1,0,0,0,0,0,0,0,0,0,0,0,Y,D,D,D,D,D
+90,Female,Hispanic/Latino,21,NDSAE,Y,1,1,1,1,0,0,0,1,1,1,0,1,N,N,N,N,N,N
+48,Female,Hispanic/Latino,26,NUC,N,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,Y,N,N
+171,Female,Native American,19,NDSAE,Y,1,0,0,0,0,0,0,0,1,0,0,0,Y,N,N,Y,N,N
+311,Male,Hispanic/Latino,22,NDSAE,Y,1,1,0,1,1,1,0,0,1,1,0,1,N,N,N,Y,N,N
+600,Female,Caucasian,18,YAT,Y,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,N,N,N
+350,Female,Caucasian,15,YAT,Y,1,1,0,0,1,0,0,0,1,0,1,0,N,N,N,N,N,N
+82,Declined to Answer,Declined to Answer,21,NLAMA,N,1,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,D,D
+397,Female,Caucasian,23,YAT,Y,1,0,0,0,0,0,0,0,1,1,0,0,N,N,N,Y,N,N
+442,Female,Caucasian,48,YR,Y,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,N,N,N
+80,Female,Caucasian,22,NDSAE,N,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,N,N,N
+147,Female,Caucasian,57,NPSASTR,Y,1,1,0,0,0,0,0,0,1,1,0,0,N,N,N,N,N,N
+190,Female,Caucasian,48,NDSAE,Y,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+55,Declined to Answer,Declined to Answer,17,NOT,N,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+637,Female,Caucasian,35,YSO,Y,1,1,1,0,1,0,0,0,1,0,1,0,N,N,N,N,N,N
+600,Female,Hispanic/Latino,30,YTTMC,Y,1,1,0,1,0,0,1,0,1,0,0,0,N,N,N,Y,N,N
+15,Transgender,Caucasian,22,NUC,Y,0,0,0,0,1,0,0,0,1,0,0,0,Y,N,N,Y,N,N
+39,Female,African-American,15,NPSASTR,N,1,1,0,0,1,0,1,0,1,0,0,0,D,D,D,D,D,D
+665,Male,Caucasian,50,YAT,N,1,0,0,0,0,0,0,0,0,0,0,1,N,Y,N,N,Y,N
+540,Female,Caucasian,55,YAT,Y,1,0,0,0,1,0,0,0,1,0,0,1,N,N,N,N,N,N
+530,Female,Hispanic/Latino,25,YAT,Y,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,Y,N,N
+630,Female,Native American,41,NDSE,Y,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+138,Female,Hispanic/Latino,16,NTCAC,N,1,1,1,0,1,0,0,0,1,0,0,1,Y,N,N,N,N,N
+425,Female,Hispanic/Latino,22,YAT,Y,1,0,0,0,1,0,0,0,1,1,0,0,N,N,N,N,N,N
+215,Transgender,Native American,35,NDSAE,Y,1,0,0,0,1,0,0,0,1,1,0,0,Y,N,N,Y,N,N
+765,Male,Caucasian,62,YTBM,Y,1,0,0,0,0,0,0,1,1,0,0,0,Y,N,N,Y,N,N
+190,Male,Native American,47,NOT,Y,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+160,Female,Middle Eastern,20,NDSE,Y,1,1,1,1,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+945,Female,Hispanic/Latino,24,YSO,Y,1,0,0,0,0,0,0,0,0,0,0,1,N,N,N,N,N,N
+385,Female,Asian/Hispanic,21,YAT,Y,1,1,0,0,1,0,0,1,1,1,0,0,N,N,N,N,N,N
+672,Female,Hispanic/Latino,52,YME,Y,1,1,1,0,1,0,1,1,1,1,0,0,N,N,N,N,N,N
+42,Female,Native American,16,NUC,N,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,N,N,N
+428,Female,Caucasian,22,YAT,Y,1,0,0,0,1,0,0,0,1,1,0,0,N,N,N,N,N,N
+51,Female,Declined to Answer,34,NDSAE,N,1,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,D,D
+69,Female,Caucasian,19,NDSAE,N,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+247,Male,Declined to Answer,43,YSO,N,1,0,0,0,1,0,0,0,1,1,0,0,N,N,N,N,N,N
+310,Female,Hispanic/Latino,29,NDSAE,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+648,Female,Hispanic/Latino,58,YAT,Y,1,1,1,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+150,Female,Hispanic/Latino,72,NP,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+445,Female,African-American,51,YAT,Y,1,0,0,0,1,0,0,1,0,0,0,0,N,N,N,D,N,N
+980,Female,Hispanic/Latino,45,NOT,Y,1,0,0,0,1,0,0,0,1,0,0,0,Y,N,Y,N,N,Y
+385,Female,Caucasian,42,YAT,Y,1,0,0,1,1,0,0,0,1,1,0,0,N,N,N,N,N,N
+450,Female,Hispanic/Latino,20,YTTMC,Y,1,1,1,0,1,0,0,0,1,0,0,0,N,N,N,Y,N,N
+211,Female,African-American,60,NUC,N,1,0,0,0,0,0,0,0,0,0,0,0,Y,N,N,N,N,N
+60,Female,Caucasian,26,NDSAE,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+169,Female,Caucasian,26,NP,Y,1,1,1,1,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+461,Female,Hispanic/Latino,36,YAT,N,1,0,0,1,1,0,0,0,1,0,0,0,N,N,N,Y,N,N
+299,Male,Indian,37,YAT,Y,1,1,0,0,1,0,0,1,1,0,0,1,N,N,N,N,Y,N
+625,Female,Island-Pacific,24,YAT,Y,1,0,0,0,1,0,0,0,1,1,1,1,N,N,N,Y,N,N
+95,Female,Hispanic/Latino,13,NDSAE,Y,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,D,N,N
+431,Female,Hispanic/Latino,26,YAT,Y,1,1,0,1,1,0,0,0,1,1,0,1,N,N,N,N,N,N
+128,Declined to Answer,Hispanic/Latino,13,NP,N,0,1,1,0,0,0,0,1,0,1,0,0,N,N,N,D,N,N
+354,Female,Hispanic/Latino,19,YAT,Y,1,0,0,0,0,0,0,0,1,0,0,1,N,N,N,N,N,N
+535,Female,Native American,27,YTBM,Y,1,1,1,0,1,0,0,1,1,1,1,1,N,N,N,N,N,N
+93,Female,Caucasian,46,NDSAE,Y,1,1,0,0,1,0,0,0,1,0,0,0,Y,N,N,N,N,N
+263,Female,Caucasian,19,NP,Y,1,0,0,0,1,0,1,0,1,0,1,0,N,N,N,N,N,N
+65,Female,Caucasian,46,NUC,N,1,0,0,0,0,0,0,0,0,0,0,1,Y,N,N,N,N,N
+205,Male,Multiethnic,26,YAT,N,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,Y,N
+63,Female,Hispanic/Latino,45,NDSAE,Y,1,0,0,0,0,0,0,0,0,0,0,1,D,D,D,D,D,D
+525,Female,Caucasian,30,YAT,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+10,Declined to Answer,Declined to Answer,47,NLAMA,N,1,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,D,D
+357,Female,Caucasian,25,NP,Y,1,0,1,1,0,0,0,0,1,0,1,0,Y,N,N,Y,N,N
+360,Female,Caucasian,22,YAT,N,1,0,0,0,1,0,0,0,1,0,1,0,N,N,N,Y,N,N
+435,Transgender,Hispanic/Latino,18,YAT,Y,1,0,0,0,1,0,0,0,0,0,0,1,N,N,N,Y,N,N
+90,Female,Caucasian,34,NDSAE,N,1,0,0,0,0,0,0,0,0,0,0,0,Y,N,N,D,N,N
+365,Female,Hispanic/Latino,17,YAT,Y,1,0,1,0,1,0,0,0,1,0,0,1,N,N,N,N,N,N
+55,Male,Caucasian,58,NNA,N,1,0,0,0,0,0,0,0,0,0,0,0,Y,D,D,D,D,D
+25,Female,African-American,36,NOT,N,1,0,0,0,0,0,0,0,0,1,0,0,Y,D,D,D,D,D
+656,Female,Native American,16,YTBM,Y,1,1,1,0,1,0,0,1,1,0,1,1,,,,,,
+371,Female,Native American,35,NDSE,Y,1,1,1,0,1,0,0,1,1,0,0,1,Y,N,N,N,N,N
+475,Female,Caucasian/Black,30,YSO,Y,1,0,1,1,0,0,0,0,1,1,0,0,N,N,N,N,N,N
+703,Female,Hispanic/Latino,42,YTTMC,Y,0,0,0,0,0,0,0,0,0,1,0,0,N,N,N,N,N,N
+40,Female,Hispanic/Latino,29,NOT,Y,1,0,0,0,1,0,0,0,1,1,0,0,Y,N,N,N,N,N
+51,Female,Hispanic/Latino,45,NPSASTR,Y,1,0,0,0,1,0,0,0,1,1,0,0,N,N,N,N,N,N
+510,Gender Varient,Caucasian,19,YAT,N,1,0,0,1,1,0,0,0,1,0,1,0,N,N,N,Y,N,N
+222,Transgender,Hispanic/Latino,34,YAT,Y,1,0,0,0,0,0,0,0,0,0,1,0,N,N,N,Y,N,N
+730,Female,Hispanic/Latino,39,YTBM,Y,1,1,0,1,1,0,0,0,1,1,1,0,N,N,N,N,N,N
+318,Female,Declined to Answer,47,YR,Y,1,1,0,0,0,0,0,0,1,1,0,0,D,D,D,D,D,D
+100,Female,Caucasian,20,NDSE,N,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,Y,N,N
+433,Female,Caucasian,22,YAT,Y,1,1,1,1,1,0,1,1,1,1,0,1,N,N,N,N,N,N
+317,Female,Caucasian,20,YAT,Y,1,0,0,1,1,0,0,0,1,0,0,0,N,N,N,Y,N,N
+150,Female,African-American,60,NOT,Y,1,0,0,0,1,0,0,0,1,1,0,1,N,N,N,N,N,N
+423,Female,Hispanic/Latino,54,NOT,Y,1,1,1,0,1,0,0,1,1,1,0,1,N,N,N,N,N,N
+510,Female,African-American,22,YAT,Y,1,0,1,0,1,1,0,0,1,1,1,0,N,N,N,N,N,N
+513,Female,Hispanic/Latino,38,YTBM,Y,1,0,0,0,0,0,0,0,0,0,0,0,Y,N,Y,N,N,Y
+50,Male,Caucasian,34,NDSAE,Y,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,Y,N,N
+120,Male,Declined to Answer,34,NUC,N,1,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,D,D
+568,Female,Caucasian,25,YAT,Y,1,0,0,1,1,0,0,0,1,0,0,0,Y,N,N,Y,N,N
+394,Gender Varient,African-American,36,YAT,N,1,1,0,0,0,0,0,0,1,0,1,0,N,N,N,Y,Y,N
+563,Female,Hispanic/Latino,33,YAT,Y,1,1,1,0,0,0,0,0,1,1,0,1,Y,N,N,Y,N,N
+657,Female,Hispanic/Latino,64,YTBM,Y,1,0,0,0,1,0,0,0,0,0,0,1,N,N,N,N,N,N
+447,Female,Native American,41,NDSAE,Y,1,0,0,1,0,0,1,0,1,0,0,0,N,N,N,N,N,N
+662,Female,Hispanic/Latino,39,YAT,N,1,0,0,0,0,0,0,0,1,0,0,0,Y,N,N,N,N,N
+386,Female,Native American,21,YAT,N,1,0,1,0,1,0,0,0,1,0,0,0,N,N,N,Y,N,N
+130,Female,Caucasian,20,NDSAE,Y,1,0,0,0,1,0,0,0,0,0,0,0,N,N,N,N,N,N
+295,Female,Native American,37,YAT,N,1,1,1,0,0,0,0,1,1,0,0,0,N,N,N,Y,Y,N
+95,Female,Caucasian,21,NP,Y,0,0,0,0,1,0,0,1,1,0,0,0,N,N,N,Y,N,N
+120,Female,Hispanic/Latino,40,YAT,Y,1,0,0,0,0,0,0,1,0,0,0,0,Y,N,N,N,Y,N
+361,Female,African-American,21,YME,Y,1,0,0,0,0,0,0,1,1,0,0,0,N,N,N,N,N,N
+240,Female,Caucasian,23,NOT,Y,1,0,0,0,1,0,0,0,1,1,0,1,N,N,N,N,N,N
+498,Female,African-American,24,YAT,Y,1,0,0,1,0,0,1,0,1,1,0,1,N,N,N,N,N,N
+680,Female,African-American,34,YAT,Y,1,1,1,1,1,0,1,1,1,1,0,1,N,N,N,Y,N,N
+240,Female,Caucasian,24,NDSE,Y,1,0,0,0,0,0,0,0,1,1,0,1,N,N,N,N,N,N
+215,Male,Native American,28,NDSAE,N,1,0,0,0,0,0,0,0,1,0,0,0,Y,N,N,Y,N,N
+52,Female,Caucasian,39,NDSAE,Y,1,0,0,0,1,0,0,0,1,1,0,1,N,N,N,N,N,N
+315,Female,Hispanic/Latino,23,YAT,Y,1,0,0,0,1,0,0,0,1,1,0,0,N,N,N,N,N,N
+70,Female,Caucasian,39,NUC,N,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+483,Female,African-American,21,NUC,N,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+100,Female,Caucasian,40,NUC,N,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+360,Female,Hispanic/Latino,18,YAT,Y,1,1,0,0,0,0,0,1,1,1,0,1,N,N,Y,Y,N,N
+115,Female,Caucasian,44,NDSAE,N,1,1,0,0,1,0,0,0,1,1,0,1,N,N,N,N,N,N
+325,Male,Hispanic/Latino,42,NDSAE,Y,0,0,1,0,1,0,0,0,1,0,0,0,Y,N,N,Y,N,N
+577,Female,Hispanic/Latino,29,YTBM,Y,1,1,0,0,1,0,0,0,1,0,0,1,N,N,N,Y,N,N
+384,Female,Hispanic/Latino,36,YAT,Y,1,0,0,0,1,0,0,0,1,0,0,0,Y,N,N,N,N,N
+45,Female,Declined to Answer,48,NLAMA,N,0,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,D,D
+411,Female,Caucasian,20,YAT,Y,1,0,0,1,0,0,0,1,1,1,0,0,N,N,N,N,N,N
+132,Gender Varient,African-American,17,NOT,N,1,0,0,0,0,0,0,0,0,0,1,1,N,N,N,Y,N,N
+417,Female,Hispanic/Latino,47,YAT,Y,1,1,1,0,1,0,0,1,1,1,0,1,N,N,N,N,N,N
+875,Female,Hispanic/Latino,25,YAT,Y,1,0,0,0,0,0,0,0,1,1,0,0,N,N,N,N,N,N
+25,Female,Declined to Answer,15,NUC,N,0,0,0,0,0,0,0,0,0,0,1,0,D,D,D,D,D,D
+25,Female,Hispanic/Latino,18,NPSASTR,Y,1,1,1,0,1,0,0,1,1,1,0,1,D,D,D,D,D,D
+201,Female,Caucasian,55,NDSE,Y,1,0,1,1,1,0,0,0,1,1,0,0,N,N,N,N,N,N
+340,Male,Caucasian,31,YAT,N,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,Y,N
+835,Female,African-American,41,NDSAE,Y,1,0,0,0,1,0,0,0,1,0,0,1,Y,N,N,Y,N,N
+410,Female,Caucasian,21,YAT,N,1,0,1,1,0,1,0,0,1,1,1,1,N,N,N,N,N,N
+105,Female,African-American,41,NUC,N,1,1,1,0,1,0,0,1,1,0,0,1,Y,D,D,Y,N,D
+170,Female,Hispanic/Latino,22,NDSAE,Y,0,0,0,0,1,0,0,0,1,0,0,0,N,N,N,Y,N,N
+116,Female,African,25,NPSASTR,Y,1,0,0,0,0,0,1,0,1,0,0,0,Y,N,N,Y,N,N
+565,Female,Hispanic/Latino,41,NDSAE,Y,1,0,0,1,1,0,0,0,1,0,1,0,N,N,N,N,N,N
+678,Female,Caucasian,19,YAT,Y,1,1,0,0,1,0,0,1,1,0,0,0,N,N,N,Y,N,N
+710,Female,Caucasian,38,YAT,Y,1,1,0,0,0,0,0,0,1,0,0,1,N,N,N,N,N,N
+630,Female,Caucasian,18,YAT,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+35,Female,Hispanic/Latino,43,NP,Y,0,0,0,0,0,0,0,0,1,0,0,0,Y,D,D,D,Y,D
+135,Declined to Answer,Declined to Answer,36,NDSE,N,1,0,0,0,1,0,0,0,0,0,0,1,Y,D,D,D,D,D
+460,Female,Multiethnic,18,YAT,Y,1,0,0,0,1,0,0,0,1,1,1,0,N,N,N,N,N,N
+239,Female,Hispanic/Latino,21,NNA,Y,1,0,0,0,1,0,0,1,1,0,0,1,Y,N,N,N,N,N
+357,Female,African,25,NDSAE,Y,1,1,0,0,1,0,1,0,1,0,1,1,Y,N,N,Y,N,N
+275,Female,African,25,NUC,N,1,0,0,0,0,0,0,0,0,0,0,0,Y,N,N,Y,N,N
+55,Female,Caucasian,25,NLAMA,Y,0,0,0,0,0,0,0,0,0,0,0,0,Y,N,N,N,N,N
+375,Female,Caucasian,67,YR,Y,1,1,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+435,Female,Asian,41,NLAMA,Y,1,0,0,0,1,0,0,0,0,0,0,0,N,N,N,N,N,N
+365,Female,Hispanic/Latino,33,YAT,Y,1,0,0,0,1,0,0,1,1,0,0,1,N,N,N,N,N,N
+535,Female,Caucasian,14,YTTMC,Y,1,1,1,0,1,0,0,1,1,0,0,0,N,N,N,N,N,N
+467,Female,Hispanic/Latino,50,YAT,Y,1,1,1,1,1,0,0,1,1,1,0,1,Y,N,N,N,N,N
+298,Female,Native American,18,NDSAE,Y,1,0,0,0,0,0,0,0,0,0,0,0,N,N,N,N,N,N
+130,Female,Hispanic/Latino,22,NDSAE,Y,1,1,1,0,1,0,0,0,1,1,1,1,N,N,N,Y,N,N
+160,Female,Caucasian,50,NLAMA,N,1,0,0,0,0,0,0,0,1,1,0,0,N,N,N,N,N,N
+22,Female,Native American,37,NUC,N,1,0,0,0,0,0,0,0,0,0,0,0,Y,D,D,D,D,D
+505,Female,Hispanic/Latino,40,YSO,Y,1,1,1,1,0,0,0,1,1,1,0,1,N,N,N,N,N,N
+638,Female,Hebrew,25,NDSAE,Y,1,0,0,0,0,0,0,0,1,0,0,1,Y,N,N,N,N,N
+70,Transgender,African-American,20,NDSAE,N,1,0,0,0,1,0,0,0,1,0,1,1,Y,N,N,Y,N,N
+220,Transgender,African-American,20,NDSAE,Y,1,0,0,0,1,0,0,0,1,0,1,1,Y,N,N,Y,N,N
+86,Declined to Answer,Declined to Answer,37,NUC,Y,1,0,0,0,0,0,0,0,0,0,0,1,D,D,D,D,D,D
+253,Female,African-American,20,YAT,Y,1,0,0,1,1,0,0,1,1,0,0,0,N,N,N,N,N,N
+58,Female,Native American,37,NUC,Y,1,1,1,1,1,0,1,1,1,0,0,1,N,N,N,N,N,N
+180,Female,Caucasian,31,NP,Y,1,0,0,0,1,0,0,1,1,0,1,1,N,N,N,N,N,N
+291,Female,African-American,21,YAT,Y,0,0,0,0,1,0,0,1,1,0,1,0,N,N,N,N,N,N
+495,Female,Native American,35,YR,Y,1,0,0,0,0,0,1,0,1,0,0,0,N,N,N,Y,N,N
+215,Female,Declined to Answer,33,NDSAE,Y,1,0,0,0,1,0,0,0,0,0,0,0,Y,N,N,D,N,N
+310,Female,Caucasian,41,YAT,Y,1,0,0,0,1,0,0,0,0,0,0,1,N,N,N,N,N,N
+30,Female,Caucasian,27,NLAMA,N,1,0,0,0,0,0,0,0,0,0,0,1,Y,N,N,N,N,N
+310,Female,Caucasian,19,YAT,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+387,Female,Hispanic/Latino,30,YAT,Y,1,1,1,1,1,0,0,0,1,0,0,0,N,N,N,Y,N,N
+105,Declined to Answer,Hispanic/Latino,13,NOT,N,1,0,0,0,0,0,0,0,1,0,0,0,N,N,Y,D,Y,Y
+181,Male,Declined to Answer,21,NLAMA,N,1,0,0,0,0,0,0,0,1,0,0,0,D,D,D,D,D,D
+114,Declined to Answer,Hispanic/Latino,16,NOT,N,1,0,0,0,0,0,0,0,1,0,0,0,N,N,Y,D,Y,Y
+225,Female,Caucasian,47,NDSAE,Y,1,1,0,0,1,0,0,0,1,1,0,1,N,N,N,N,N,N
+440,Male,Caucasian,19,YAT,Y,1,0,0,0,1,0,0,0,0,0,0,1,N,N,N,N,N,N
+131,Female,Hispanic/Latino,53,NDSAE,Y,1,0,0,0,0,0,0,0,1,1,0,1,N,N,N,N,N,N
+88,Female,Hispanic/Latino,22,NDSE,N,1,0,0,0,1,0,0,0,1,0,0,1,N,N,N,N,N,Y
+480,Declined to Answer,Caucasian,29,YAT,N,1,0,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
+"1,125",Female,Hispanic/Latino,18,YAT,Y,1,0,0,0,1,0,0,1,1,0,0,1,N,N,N,Y,N,N
+"1,060",Female,Hispanic/Latino,26,YAT,Y,1,0,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+"1,031",Male,Caucasian,26,YAT,Y,1,0,0,0,1,0,0,1,1,0,0,1,Y,N,N,N,N,N
+712,Female,Multiethnic,23,YSO,Y,1,1,1,1,1,0,1,1,1,0,1,1,N,N,N,N,N,N
+545,Female,Caucasian,42,YAT,Y,1,1,1,1,1,0,1,1,1,1,0,1,N,N,N,N,N,N
+138,Female,Caucasian,46,NDSAE,Y,1,0,0,0,1,0,0,0,0,0,0,1,Y,N,N,N,N,N
+105,Female,Caucasian,23,NOT,Y,1,0,1,1,1,0,1,0,1,0,0,1,N,N,N,N,N,N
+200,Female,African,30,NOT,Y,1,0,0,1,1,0,0,0,1,0,0,0,N,N,Y,N,N,Y
+335,Female,Hispanic/Latino,38,NDSAE,Y,1,0,0,1,1,0,0,0,1,0,0,0,Y,N,N,N,N,N
+62,Female,Caucasian,21,NDSAE,N,1,0,0,0,1,0,0,0,1,0,0,1,D,D,D,D,D,D
+310,Female,Hispanic/Latino,24,YAT,Y,1,1,0,1,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+105,Female,Caucasian,30,NDSAE,Y,1,0,0,0,1,0,0,0,1,0,0,1,D,D,D,D,D,D
+550,Female,Multiethnic,26,YAT,Y,1,0,0,1,1,0,0,0,1,1,0,1,N,N,N,Y,N,N
+45,Declined to Answer,Declined to Answer,30,NUC,N,0,0,0,0,0,0,0,0,0,0,0,0,D,D,D,D,D,D
+390,Female,Caucasian,21,YAT,Y,1,1,0,0,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+495,Female,Hispanic/Latino,45,YSO,Y,1,1,0,1,1,0,0,0,1,0,0,0,N,N,N,N,N,N
+153,Female,Hispanic/Latino,38,NDSAE,Y,1,1,1,0,1,0,1,1,1,1,1,1,N,N,N,N,N,N
+413,Male,Caucasian,25,YAT,N,1,0,0,0,1,0,0,0,1,0,1,0,N,N,N,Y,Y,N
+556,Female,Hispanic/Latino,20,YTTMC,Y,1,1,0,0,1,0,1,1,1,1,0,1,N,N,N,Y,N,N
+110,Female,Hispanic/Latino,87,NDSAE,N,1,1,0,0,0,0,0,0,1,0,0,0,N,N,N,N,N,N
