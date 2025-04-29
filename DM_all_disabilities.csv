@@ -1,0 +1,49 @@
+"","duration","DM_GenderID","DM_Ethnicity","DM_Age","DM_Homeless","DM_LGBTQ","DM_inmate","DM_AmerIndian","DM_HumanTraff","DM_D_None","DM_D_Unknown","DM_D_Cogn","DM_D_Sensory","DM_D_Physical","DM_D_Psychiatric","DM_Declined"
+"1",03:37:00.000000,"Intersex","Caucasian",25,2,2,1,2,2,0,0,0,0,0,0,1
+"2",03:26:00.000000,"Female","Hispanic/Latino",62,0,0,0,0,0,0,0,0,0,1,1,0
+"3",07:40:00.000000,"Female","Hispanic/Latino",36,1,0,0,0,0,0,0,0,0,0,1,0
+"4",04:35:00.000000,"Female","African",25,1,1,0,0,1,1,0,0,0,0,0,0
+"5",01:45:00.000000,"Female","African-American",41,1,1,0,2,1,0,0,0,0,0,0,1
+"6",02:00:00.000000,"Male","Declined to Answer",34,2,2,0,2,2,0,0,0,0,0,0,1
+"7",00:15:00.000000,"Transgender","Caucasian",22,1,1,0,0,0,0,0,1,0,0,0,0
+"8",02:05:00.000000,"Declined to Answer","Declined to Answer",30,2,2,0,2,2,0,0,0,0,0,0,1
+"9",01:40:00.000000,"Female","Hispanic/Latino",34,0,1,0,0,0,0,0,0,0,0,1,0
+"10",13:15:00.000000,"Gender Varient","Hispanic/Latino",18,1,1,0,0,0,0,0,0,0,0,1,0
+"11",00:30:00.000000,"Female","Declined to Answer",27,2,2,1,2,2,0,0,0,0,0,0,1
+"12",22:55:00.000000,"Female","Multiethnic",62,0,0,0,0,0,1,0,0,0,0,1,0
+"13",02:27:00.000000,"Female","Native American",31,1,1,0,1,0,1,0,0,0,0,0,1
+"14",13:28:00.000000,"Female","African-American",39,1,1,0,2,2,0,0,0,0,0,1,0
+"15",03:40:00.000000,"Female","African-American",62,1,0,0,0,0,0,0,1,0,0,1,0
+"16",02:05:00.000000,"Female","Hispanic/Latino",36,1,0,0,0,0,0,0,0,0,0,1,0
+"17",52:53:00.000000,"Female","Native American",37,1,2,0,1,2,0,0,0,0,0,0,1
+"18",01:40:00.000000,"Female","Caucasian",40,0,0,0,0,1,0,0,0,0,0,1,0
+"19",01:10:00.000000,"Female","Caucasian",39,0,0,0,0,0,0,0,0,0,0,1,0
+"20",08:03:00.000000,"Female","African-American",21,0,0,0,0,0,0,0,0,0,0,1,0
+"21",01:05:00.000000,"Female","Caucasian",46,1,0,0,0,0,0,0,0,1,0,0,0
+"22",03:31:00.000000,"Female","African-American",60,1,0,0,0,0,0,0,1,0,0,1,0
+"23",00:42:00.000000,"Female","Native American",16,0,0,0,0,1,1,0,0,0,0,0,0
+"24",00:48:00.000000,"Female","Hispanic/Latino",26,0,1,0,0,0,1,0,0,0,0,0,0
+"25",02:00:00.000000,"Female","Declined to Answer",58,1,2,0,2,1,0,1,0,0,0,0,0
+"26",01:15:00.000000,"Male","Hispanic/Latino",42,1,1,0,0,0,0,0,0,0,0,1,0
+"27",00:47:00.000000,"Male","Hispanic/Latino",60,0,0,0,0,0,0,0,0,0,0,1,0
+"28",09:40:00.000000,"Female","Hispanic/Latino",38,1,1,0,2,2,0,0,0,0,0,0,1
+"29",00:47:00.000000,"Declined to Answer","Declined to Answer",37,2,2,0,2,2,0,1,0,0,0,0,0
+"30",01:27:00.000000,"Declined to Answer","Declined to Answer",31,2,2,0,2,2,0,0,0,0,0,1,0
+"31",11:25:00.000000,"Transgender","Caucasian",22,1,1,0,0,0,0,0,1,0,0,0,0
+"32",00:37:00.000000,"Female","Declined to Answer",17,2,2,0,2,2,0,1,0,0,0,0,0
+"33",12:11:00.000000,"Female","Caucasian",25,0,1,0,0,0,0,0,0,0,1,1,0
+"34",01:10:00.000000,"Female","Caucasian",68,0,0,0,0,0,0,0,1,0,1,0,0
+"35",00:58:00.000000,"Female","Native American",37,0,0,0,1,0,0,0,1,0,1,0,0
+"36",15:56:00.000000,"Female","Caucasian",18,1,0,0,0,0,0,0,1,0,0,0,0
+"37",00:51:00.000000,"Female","Declined to Answer",23,2,2,0,2,2,0,1,0,0,0,0,0
+"38",14:26:00.000000,"Female","African-American",36,1,1,0,0,0,0,0,0,0,1,0,0
+"39",01:25:00.000000,"Declined to Answer","Declined to Answer",37,2,2,0,2,2,0,0,0,0,0,0,1
+"40",02:28:00.000000,"Female","Caucasian",81,0,0,0,0,0,0,0,0,0,1,0,0
+"41",04:48:00.000000,"Female","Declined to Answer",22,0,0,0,0,0,0,0,0,0,0,1,0
+"42",00:30:00.000000,"Female","Hispanic/Latino",25,0,2,0,0,0,0,0,0,0,0,0,1
+"43",06:37:00.000000,"Declined to Answer","Declined to Answer",61,2,2,0,2,2,0,0,0,0,0,0,1
+"44",01:28:00.000000,"Female","Caucasian",20,0,0,0,0,0,1,0,0,0,0,0,0
+"45",06:20:00.000000,"Declined to Answer","Declined to Answer",35,1,0,0,0,0,0,0,0,0,0,0,1
+"46",00:50:00.000000,"Declined to Answer","Declined to Answer",29,1,2,0,2,2,0,0,0,0,0,0,1
+"47",00:45:00.000000,"Declined to Answer","Declined to Answer",30,2,2,0,2,2,0,0,0,0,0,0,1
+"48",01:51:00.000000,"Declined to Answer","Declined to Answer",37,2,2,0,2,2,0,1,0,0,0,0,0

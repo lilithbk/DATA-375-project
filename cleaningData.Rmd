@@ -1,0 +1,126 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(lubridate)
+library(hms)
+df <- read.csv("all_data.csv")
+```
+
+```{r}
+df <- df %>%
+  #filtering for survivors deemed unable to consent
+  filter(str_detect(medexamcomptxt,"Consent")) %>%
+  #removing rows w/o case number
+  filter(N_lawenfcase != "") %>%
+  #converting to date and time formats
+  mutate(EncDte=as.Date(EncDte,format="%m/%d/%Y")) %>%
+  mutate(HD_HospStartTime = ymd_hms(paste(EncDte,(as_hms(parse_date_time(HD_HospStartTime,orders="I:M p")))))) %>%
+  mutate(HD_HospMinutes = as_hms(as.integer(HD_HospMinutes)*60)) %>%
+  #calculating end time
+  mutate(HD_HospEndTime = HD_HospStartTime + HD_HospMinutes, .after = HD_HospStartTime) %>%
+  arrange(EncDte,HD_HospStartTime,N_lawenfcase) %>%
+  group_by(N_lawenfcase) %>%
+  #getting total time from first contact until last contact
+  summarize(
+    start = first(HD_HospStartTime),
+    end = last(HD_HospEndTime),
+    duration = as_hms(end - start),across(-c(HD_HospEndTime,HD_HospStartTime))) %>%
+  slice(n()) %>%
+  ungroup()
+```
+
+```{r}
+#getting rid of columns deemed unnecessary
+df <- df %>%
+  select(-starts_with("N")) %>%
+  select(-starts_with("CI")) %>%
+  select(-c(start,end,EncDte,HD_HospMinutes,medexamcomptxt,X,HD_Hospital)) %>%
+  select(-starts_with("PA"))
+```
+
+```{r}
+#removing unwanted demographics columns and converting columns into "binary" instead of chr 
+df <- df %>%
+  select(-c(DM_Reside,DM_ZipCode,DM_veteran,DM_Immigrant,DM_undocumented,DM_D_Acquir,DM_D_EngProf,DM_D_Congential,DM_D_Development)) %>%
+  mutate(DM_Homeless = case_when(
+    DM_Homeless == "D" ~ 2,
+    DM_Homeless == "Y" ~ 1,
+    DM_Homeless == "N" ~ 0)) %>%
+  mutate(DM_LGBTQ = case_when(
+    DM_LGBTQ == "D" ~ 2,
+    DM_LGBTQ == "Y" ~ 1,
+    DM_LGBTQ == "N" ~ 0)) %>%
+  mutate(DM_inmate = case_when(
+    DM_inmate == "Y" ~ 1,
+    TRUE ~ 0)) %>%
+  mutate(DM_AmerIndian = case_when(
+    DM_AmerIndian == "D" ~ 2,
+    DM_AmerIndian == "Y" ~ 1,
+    DM_AmerIndian == "N" ~ 0)) %>%
+  mutate(DM_HumanTraff = case_when(
+    DM_HumanTraff == "D" ~ 2,
+    DM_HumanTraff == "Y" ~ 1,
+    DM_HumanTraff == "N" ~ 0))
+```
+
+
+```{r}
+#a bit of a trial run for what to do with DM_Disabled
+#b/c very few people are categorized as non-disabled (most disabled, decent amount declined)
+  #i think we could look at potential differences between duration when survivor has a
+  # psychiatric (16 total) vs. non-psychiatric (8 total) disability
+psych <- df %>%
+  mutate(DM_Disabled = case_when(
+    DM_Declined == 1 ~ 2,
+    DM_D_Unknown == 1 ~ 2,
+    DM_D_Psychiatric==1 ~ 3,
+    DM_D_Cogn==1|DM_D_Sensory==1|DM_D_Physical==1 ~ 1,
+    TRUE ~ 0)) %>%
+  select(-c(DM_Declined,DM_D_Unknown,DM_D_None,DM_D_Cogn,DM_D_Sensory,DM_D_Physical,DM_D_Psychiatric))
+```
+
+```{r}
+#(messily) plotting disability and duration
+ggplot(psych,aes(y=duration))+
+  geom_boxplot(aes(group=DM_Disabled,fill=DM_Disabled),outliers=FALSE,color='red')
+```
+
+```{r}
+#plotting people who are and aren't LGBTQ
+queer <- df%>%
+  filter(DM_LGBTQ==1|DM_LGBTQ==0)
+ggplot(queer,aes(y=duration))+
+  geom_boxplot(aes(group=DM_LGBTQ,fill=DM_LGBTQ),color='red',outliers=FALSE)
+```
+
+```{r}
+#plotting homeless and non-homeless survivors
+homeless <- df%>%
+  filter(DM_Homeless==1|DM_Homeless==0)
+ggplot(homeless,aes(y=duration))+
+  geom_boxplot(aes(group=DM_Homeless,fill=DM_Homeless),color='red',outliers=FALSE)
+```
+
+```{r}
+#all present combinations and their frequencies between DM_Homeless, DM_Disabled, and DM_LGBTQ
+#pretty much all the other demographic columns don't have enough individuals across categories
+  #to be able to do an analysis of them
+count(psych,DM_Homeless,DM_Disabled,DM_LGBTQ)
+```
+
+```{r}
+#a bunch of plots that probably don't mean anything
+lapply(names(df),function (x)
+ggplot(df,aes(y=duration)) +
+  geom_boxplot(aes(group=!!sym(x),fill=!!sym(x))))
+```
+
+```{r}
+write.csv(df,"DM_all_disabilities.csv")
+write.csv(psych,"DM_single_disability_col.csv")
+```
+
